@@ -1,0 +1,12 @@
+  - [ ] Introduction
+  - [ ] Environment
+  - [ ] What is RAG
+  - [ ] Course FAQ Dataset
+  - [ ] Search
+  - [ ] Building a Prompt
+  - [ ] RAG Pipeline
+  - [ ] RAG Helper
+  - [ ] Data Ingestion
+  - [ ] Wrap-up
+
+---
