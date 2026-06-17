@@ -1,7 +1,7 @@
-  - [ ] Introduction
-  - [ ] Environment
-  - [ ] What is RAG
-  - [ ] Course FAQ Dataset
+  - [x] Introduction
+  - [x] Environment
+  - [x] What is RAG
+  - [x] Course FAQ Dataset
   - [ ] Search
   - [ ] Building a Prompt
   - [ ] RAG Pipeline
