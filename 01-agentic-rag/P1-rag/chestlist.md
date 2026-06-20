@@ -2,9 +2,9 @@
   - [x] Environment
   - [x] What is RAG
   - [x] Course FAQ Dataset
-  - [ ] Search
-  - [ ] Building a Prompt
-  - [ ] RAG Pipeline
+  - [x] Search
+  - [x] Building a Prompt
+  - [x] RAG Pipeline
   - [ ] RAG Helper
   - [ ] Data Ingestion
   - [ ] Wrap-up
