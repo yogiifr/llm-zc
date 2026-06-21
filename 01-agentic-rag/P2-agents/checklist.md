@@ -1,6 +1,6 @@
-  - [ ] Agents
-  - [ ] RAG Revision
-  - [ ] Function Calling
-  - [ ] Agentic Loop
-  - [ ] ToyAIKit
-  - [ ] Other Frameworks
+  - [x] Agents
+  - [x] RAG Revision
+  - [x] Function Calling
+  - [x] Agentic Loop
+  - [x] ToyAIKit
+  - [x] Other Frameworks
