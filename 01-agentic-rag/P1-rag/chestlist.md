@@ -5,8 +5,8 @@
   - [x] Search
   - [x] Building a Prompt
   - [x] RAG Pipeline
-  - [ ] RAG Helper
-  - [ ] Data Ingestion
-  - [ ] Wrap-up
+  - [x] RAG Helper
+  - [x] Data Ingestion
+  - [x] Wrap-up
 
 ---
